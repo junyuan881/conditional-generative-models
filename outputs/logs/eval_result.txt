@@ -1,0 +1,112 @@
+======================================================================
+Evaluate generated images by TA evaluator
+======================================================================
+Loading TA evaluator...
+TA evaluator loaded.
+Evaluating test.json generated images...
+Evaluating new_test.json generated images...
+----------------------------------------------------------------------
+Accuracy on test.json:     0.875000
+Accuracy on new_test.json: 0.869048
+Mean accuracy:             0.872024
+----------------------------------------------------------------------
+Result saved to: /home/andylin/workspace/LAB6_FM/outputs/logs/eval_result.txt
+======================================================================
+======================================================================
+Evaluate generated images by TA evaluator
+======================================================================
+Loading TA evaluator...
+TA evaluator loaded.
+Evaluating test.json generated images...
+Evaluating new_test.json generated images...
+----------------------------------------------------------------------
+Accuracy on test.json:     0.861111
+Accuracy on new_test.json: 0.869048
+Mean accuracy:             0.865079
+----------------------------------------------------------------------
+Result saved to: /home/andylin/workspace/LAB6_FM/outputs/logs/eval_result.txt
+======================================================================
+======================================================================
+Evaluate generated images by TA evaluator
+======================================================================
+Loading TA evaluator...
+TA evaluator loaded.
+Evaluating test.json generated images...
+Evaluating new_test.json generated images...
+----------------------------------------------------------------------
+Accuracy on test.json:     0.805556
+Accuracy on new_test.json: 0.845238
+Mean accuracy:             0.825397
+----------------------------------------------------------------------
+Result saved to: /home/andylin/workspace/LAB6_FM/outputs/logs/eval_result.txt
+======================================================================
+======================================================================
+Evaluate generated images by TA evaluator
+======================================================================
+Loading TA evaluator...
+TA evaluator loaded.
+Evaluating test.json generated images...
+Evaluating new_test.json generated images...
+----------------------------------------------------------------------
+Accuracy on test.json:     0.833333
+Accuracy on new_test.json: 0.869048
+Mean accuracy:             0.851190
+----------------------------------------------------------------------
+Result saved to: /home/andylin/workspace/LAB6_FM/outputs/logs/eval_result.txt
+======================================================================
+======================================================================
+Evaluate generated images by TA evaluator
+======================================================================
+Loading TA evaluator...
+TA evaluator loaded.
+Evaluating /home/andylin/workspace/LAB6_FM/outputs/test generated images...
+Evaluating /home/andylin/workspace/LAB6_FM/outputs/new_test generated images...
+----------------------------------------------------------------------
+Accuracy on test.json:     0.833333
+Accuracy on new_test.json: 0.869048
+Mean accuracy:             0.851190
+----------------------------------------------------------------------
+Result saved to: /home/andylin/workspace/LAB6_FM/outputs/logs/eval_result.txt
+======================================================================
+======================================================================
+Evaluate generated images by TA evaluator
+======================================================================
+Loading TA evaluator...
+TA evaluator loaded.
+Evaluating /home/andylin/workspace/LAB6_FM/outputs/test generated images...
+Evaluating /home/andylin/workspace/LAB6_FM/outputs/new_test generated images...
+----------------------------------------------------------------------
+Accuracy on test.json:     0.819444
+Accuracy on new_test.json: 0.904762
+Mean accuracy:             0.862103
+----------------------------------------------------------------------
+Result saved to: /home/andylin/workspace/LAB6_FM/outputs/logs/eval_result.txt
+======================================================================
+======================================================================
+Evaluate generated images by TA evaluator
+======================================================================
+Loading TA evaluator...
+TA evaluator loaded.
+Evaluating /home/andylin/workspace/LAB6_FM/outputs/test generated images...
+Evaluating /home/andylin/workspace/LAB6_FM/outputs/new_test generated images...
+----------------------------------------------------------------------
+Accuracy on test.json:     0.819444
+Accuracy on new_test.json: 0.904762
+Mean accuracy:             0.862103
+----------------------------------------------------------------------
+Result saved to: /home/andylin/workspace/LAB6_FM/outputs/logs/eval_result.txt
+======================================================================
+======================================================================
+Evaluate generated images by TA evaluator
+======================================================================
+Loading TA evaluator...
+TA evaluator loaded.
+Evaluating /home/andylin/workspace/LAB6_FM/outputs/test generated images...
+Evaluating /home/andylin/workspace/LAB6_FM/outputs/new_test generated images...
+----------------------------------------------------------------------
+Accuracy on test.json:     0.819444
+Accuracy on new_test.json: 0.904762
+Mean accuracy:             0.862103
+----------------------------------------------------------------------
+Result saved to: /home/andylin/workspace/LAB6_FM/outputs/logs/eval_result.txt
+======================================================================
