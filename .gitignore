@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+checkpoints/*.pth
+evaluator/checkpoint.pth
+outputs/grids/*preview_epoch*.png
+outputs_fm/grids/*preview_epoch*.png
+outputs/logs/train_log.txt
+outputs_fm/logs/train_fm_log.txt
